@@ -12,7 +12,7 @@ body{
 }
 
 #showcase{
-  background-image:url('https://birrerias.github.io/img/landing.jpg');
+  background-image:url('../img/landing.jpg');
   background-size:cover;
   background-position:center;
   height:100vh;
